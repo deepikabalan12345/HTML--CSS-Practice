@@ -1,0 +1,24 @@
+#bk{
+    background-color: blue;
+    height: 1000px;
+    width: 1000px;
+    transform: translate(250px);
+}
+#oder{
+    transform: translate(30px,70px);
+    font-size:larger;
+    
+}
+#odee{
+    transform: translate(30px,70px);
+    font-size:larger;
+    
+}
+#ph{
+    transform:translate(30px,90px);
+}
+#pa{
+    color:red;
+    transform:translate(30px,100px);
+    font-size: larger;
+}
